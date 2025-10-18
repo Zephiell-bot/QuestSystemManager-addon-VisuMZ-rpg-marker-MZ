@@ -8,5 +8,6 @@ je vous recommande d'utiliser VisuMZ
 liens/links
 
 plugin VisuMZ [http://www.yanfly.moe/wiki/Core_Engine_VisuStella_MZ](http://www.yanfly.moe/wiki/Core_Engine_VisuStella_MZ)
+
 author [VisuStella](https://visustella.itch.io)
 
