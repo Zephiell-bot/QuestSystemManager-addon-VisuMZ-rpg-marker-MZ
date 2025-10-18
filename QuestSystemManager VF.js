@@ -193,6 +193,9 @@
  * @default true
  *
  * @help
+ * ============================================================================
+ * QSM VisuMZ v1.0.0
+ * ============================================================================ 
  * -----------------------------------------------------------------
  * A. INFORMATIONS & ORDRE DES PLUGINS
  * -----------------------------------------------------------------
@@ -946,7 +949,7 @@
             const isCompleted = $gameSystem.isQuestCompleted(this._quest.id);
             const statusColor = isCompleted ? 3 : 2;
             const statusText = isCompleted ? "TERMINÉE" : "EN COURS";
-            const lineHeight = this.leHeight();
+            const lineHeight = this.lineHeight();
 
             // Titre (wrap si trop long)
             this.changeTextColor(ColorManager.textColor(detailTitleColorIndex));
