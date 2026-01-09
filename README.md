@@ -2,7 +2,7 @@
 It's a QuestSystemManager plugin that's user-friendly thanks to the use of switches: a start switch and an end switch.
 You should use VisuMZ.
 
-Ce plugin, QuestSystemManager, est très facile à prendre en main : il utilise simplement un interrupteur de début et un de fin. Pour un résultat optimal, je vous conseille de l'associer à VisuMZZ
+Ce plugin, QuestSystemManager, est très facile à prendre en main : il utilise simplement un interrupteur de début et un de fin. Pour un résultat optimal, je vous conseille de l'associer à VisuMZ
 
 Liens/Links
 
